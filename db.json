@@ -1,0 +1,46 @@
+{
+  "turnos": [
+    {
+      "id": "3214",
+      "paciente": "Andrés Bonilla",
+      "cedula": "1726560020",
+      "medico": "Dr. Carlos Pérez",
+      "horario": "08:30 - 09:00"
+    }
+  ],
+  "medicos": [
+    {
+      "id": "1",
+      "nombre": "Dra. Ana Torres",
+      "especialidad": "Pediatría"
+    },
+    {
+      "id": "2",
+      "nombre": "Dr. Carlos Pérez",
+      "especialidad": "Medicina General"
+    },
+    {
+      "id": "3",
+      "nombre": "Dra. Luisa Herrera",
+      "especialidad": "Cardiología"
+    }
+  ],
+  "horarios": [
+    {
+      "id": "1",
+      "rango": "08:00 - 08:30"
+    },
+    {
+      "id": "2",
+      "rango": "08:30 - 09:00"
+    },
+    {
+      "id": "3",
+      "rango": "09:00 - 09:30"
+    },
+    {
+      "id": "4",
+      "rango": "09:30 - 10:00"
+    }
+  ]
+}
