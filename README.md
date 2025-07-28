@@ -11,16 +11,17 @@ Aplicación desarrollada con **Ionic + React** para la asignatura de Desarrollo 
 - ✅ Listado de médicos predeterminados
 - ✅ Horarios preestablecidos (sin validación de disponibilidad)
 - ✅ Arquitectura de componentes distribuida
+- ✅ Datos obtenidos desde una API REST simulada (JSON Server)
 
 ---
 
 ## Tecnologías utilizadas
 
-- [Ionic Framework](https://ionicframework.com/)
-- [React](https://react.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- HTML5 + CSS3
-
+- [Ionic Framework]
+- [React]
+- [TypeScript]
+- Axios
+- JSON Server (para simular una API REST)
 ---
 
 ## Estructura del Proyecto
