@@ -25,25 +25,30 @@ Aplicación desarrollada con **Ionic + React** para la asignatura de Desarrollo 
 
 ## Estructura del Proyecto
 
-src/
-├── data/ → Listas predeterminadas de médicos y horarios
-├── pages/ → Pantallas de la aplicación
-├── types/ → Definición de tipos personalizados (Turno)
-├── App.tsx → Componente raíz con navegación
-└── theme/ → Variables y estilos
+toma-turnos-medicos/
+├── db.json → API simulada con turnos, médicos y horarios
+├── src/
+│ ├── api/api.ts → Lógica de conexión con la API
+│ ├── data/ → (Reemplazado por API)
+│ ├── pages/ → IngresoTurno, ListaTurnos
+│ ├── types/Turno.ts → Tipado de datos
+│ └── App.tsx
 
 
 ## ¿Cómo ejecutar?
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu_usuario/toma-turnos-medicos.git
-cd toma-turnos-medicos
+git clone https://github.com/ink418/turnos-medicos.git
+cd turnos-medicos
 
 Instalar dependencias:
 npm install
 
-Ejecutar aplicación:
+Iniciar el servidor API(JSON Server)
+npm run api
+
+Ejecutar en otra terminal, la aplicación con Ionic:
 ionic serve
 
 
