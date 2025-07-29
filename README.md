@@ -3,6 +3,9 @@
 Aplicación desarrollada con **Ionic + React** para la asignatura de Desarrollo de Aplicaciones móviles. Permite a los pacientes registrar un turno médico a partir de una lista predeterminada de médicos y horarios. La aplicación contiene dos pantallas: ingreso de turnos y visualización de turnos registrados.
 
 ---
+## Presentación de la Aplicación
+
+https://youtu.be/SIocxAGWYM4
 
 ## Funcionalidades
 

@@ -6,6 +6,20 @@
       "cedula": "1726560020",
       "medico": "Dr. Carlos Pérez",
       "horario": "08:30 - 09:00"
+    },
+    {
+      "id": "9590",
+      "paciente": "Prueba",
+      "cedula": "012345678",
+      "medico": "Dra. Luisa Herrera",
+      "horario": "09:30 - 10:00"
+    },
+    {
+      "id": "f980",
+      "paciente": "Prueba 2",
+      "cedula": "0200569732",
+      "medico": "Dra. Ana Torres",
+      "horario": "09:00 - 09:30"
     }
   ],
   "medicos": [
